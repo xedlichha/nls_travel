@@ -35,6 +35,6 @@ Return to the Cable Car for leaving Ba Na Hills.
 
 Our Minivan brings you back to your hotel. Tour ends.
 
-![](images/bana.jpg)
+![](./photos/bana.jpg)
 
-![](images/bana_2.jpg)
+![](./photos/bana_2.jpg)
