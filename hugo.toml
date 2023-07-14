@@ -1,4 +1,4 @@
-baseURL = "https://xedlichha.github.io/nls_travel/"
+baseURL = "https://xedlichha.github.io/"
 languageCode = "en"
 title = "NLS Travel - Book tours, taxi"
 theme = "hugo-initio"
