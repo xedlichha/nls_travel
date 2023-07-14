@@ -1,0 +1,67 @@
+baseURL = "https://example.com/"
+languageCode = "en"
+title = "NLS Travel - Book tours, taxi"
+theme = "hugo-initio"
+
+[params]
+    name = "NLS Travel - Hoi An"
+    description = ""
+    email = "tralinh194@gmail.com"
+    phone = "Zalo/whatsapp: +84 (0)706 188 427"
+    address = "94 Huyen Tran Cong Chua, Cam Chau, Hoi An, Quang Nam, Vietnam"
+    year = 2023
+    avatar = "images/guy.jpg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "July 14, 2023"
+    author = "NLS Travel - Hoi An"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
+
+    showFooterContact = true
+    showFooterFollowMe = false
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "TOURS"
+    url = "/home/tours"
+    weight = 5
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/nickname"
+    icon = "fab fa-facebook-square"
+    footer = false
+    sharethis = false
+    network = "facebook"
+[[params.social]]
+	title = "whatsapp"
+	url = "https://www.instagram.com/nickname"
+    icon = "fab fa-whatsapp"
+    footer = false
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = false
+    network = "email"
+
+[markup.goldmark.renderer]
+unsafe= true
