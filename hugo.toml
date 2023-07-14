@@ -31,7 +31,7 @@ theme = "hugo-initio"
 
 [[menu.main]]
     name = "home"
-    url = "/nls_travel"
+    url = "/"
     weight = 1
 [[menu.main]]
     name = "TOURS"
