@@ -31,11 +31,11 @@ theme = "hugo-initio"
 
 [[menu.main]]
     name = "home"
-    url = "/nls_travel"
+    url = "/"
     weight = 1
 [[menu.main]]
     name = "TOURS"
-    url = "/nls_travel/home/tours"
+    url = "/home/tours"
     weight = 5
 
 [params.disqus]
