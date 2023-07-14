@@ -35,7 +35,7 @@ theme = "hugo-initio"
     weight = 1
 [[menu.main]]
     name = "TOURS"
-    url = "/home/tours"
+    url = "/tours"
     weight = 5
 
 [params.disqus]
