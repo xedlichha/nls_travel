@@ -27,12 +27,12 @@ Join in Fantasy Park with Walking in Fairy Forest, discover Dinosaur Park, play 
 
 <p style="color: orange; font-weight: bold">15:00</p> 
 
+![](/images/bana.jpg)
+
 Return to the Cable Car for leaving Ba Na Hills.
 
 <p style="color: orange; font-weight: bold">16:45 – 17:45</p>  
 
 Our Minivan brings you back to your hotel. Tour ends.
-
-![](/images/bana.jpg)
 
 ![](/images/bana_2.jpg)
