@@ -52,6 +52,6 @@ Arive Hoi An, drop off at your hotel.  Tour ends!
 - Personal expenses and Services not mentioned above. 
 - TIP & VAT.
 
-![](/images/myson1.jpg)
+![](./photos/myson1.jpg)
 
-![](/images/myson2.jpg)
+![](./photos/myson2.jpg)

@@ -51,4 +51,4 @@ Back to hotel – Tour Ends.
 - Personal expenses and Services not mentioned above. 
 - TIP & VAT.
 
-![](/images/cham.jpg)
+![](./photos/images/cham.jpg)

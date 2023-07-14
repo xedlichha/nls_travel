@@ -65,4 +65,4 @@ Return to hotel.
 - Personal expenses and Services not mentioned above. 
 - TIP & VAT 
 
-![](/images/camthanh.jpg)
+![](./photos/camthanh.jpg)

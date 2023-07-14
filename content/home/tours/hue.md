@@ -55,4 +55,4 @@ Begin your return to Da Nang/Hoi An. Finish your Hue Imperial Tour, arriving in 
 - Personal expenses and Services not mentioned above. 
 - TIP & VAT.
 
-![](/images/hue.jpg)
+![](./photos/hue.jpg)

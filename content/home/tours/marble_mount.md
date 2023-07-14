@@ -45,6 +45,6 @@ Leaving Monkey Mountain for lunch with vietnamese local lunch.
 - Personal expenses and Services not mentioned above. 
 - TIP & VAT.
 
-![](/images/mountain1.jpg)
+![](./photos/mountain1.jpg)
 
-![](/images/mountain2.jpg)
+![](./photos/mountain2.jpg)
