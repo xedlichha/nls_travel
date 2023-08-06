@@ -234,7 +234,8 @@ a:hover {
 
 #head .title {
   font-family: Alice, Georgia, serif;
-  font-size: 49px;
+  font-size: 59px;
+  color: #e78403;
   /* font-size: 3.0625rem; */
 }
 #head .title a {
@@ -423,7 +424,7 @@ img {
   display: block;
   font-weight: 600;
   text-indent: 0;
-  color: #1b39b3;
+  color: #b31b1b;
 }
 .thumbnail .cover {
   position: absolute;
